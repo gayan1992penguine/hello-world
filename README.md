@@ -1,5 +1,5 @@
 # hello-world
 just sample repository
-i am gayan
+i am gayan madusanka
 i am software developer at emjay penguine
-this is sample
+this is not a joke
